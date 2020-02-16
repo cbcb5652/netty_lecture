@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/fifthexample/TestWebSocketFrameHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/fifthexample/WebSocketChannelInitializer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/firstexample/TestHttpServerHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/firstexample/TestServerInitializer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/fourthexample/MyServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/fourthexample/MyServerHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/fourthexample/MyServerInitializer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/secondexample/MyServerHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/thirdexample/MyChatClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/thirdexample/MyChatServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/thirdexample/MyChatServerHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/thrift/PersonServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/thrift/ThriftClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/netty/thrift/ThriftServer.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

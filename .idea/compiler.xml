@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="netty_lecture.main" target="1.8" />
+      <module name="netty_lecture.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="netty_lecture" options="--add-exports=java.base/sun.nio=ALL-UNNAMED" />
+    </option>
+  </component>
+</project>
